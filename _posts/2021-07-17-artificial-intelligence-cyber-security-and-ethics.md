@@ -19,7 +19,7 @@ But AI solutions to help in cybersecurity is not trivial since a lot of moderniz
 
 <figure>
     <a href="">
-        <img src="/assets/images/profile.png" alt="Money Hiest" />
+        <img src="/assets/images/ai-cybersecurity-n-ethics" alt="Money Hiest" />
         
         <figcaption class="caption-text"></figcaption>
         
