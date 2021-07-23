@@ -20,7 +20,7 @@ But AI solutions to help in cybersecurity is not trivial since a lot of moderniz
 ![cybersecurity-moneyhiest](assets/images/profile.png)
 <figure>
     <a href="https://www.instagram.com/dexter_cockerjack/">
-        <img src="assets/images/profile.png#wide" alt="Dexter" />
+        <img src="/assets/images/profile.png#wide" alt="Dexter" />
         
         <figcaption class="caption-text">Come and see Dexter's Instagram Account</figcaption>
         
