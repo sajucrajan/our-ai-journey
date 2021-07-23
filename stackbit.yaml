@@ -3,12 +3,14 @@ ssgName: jekyll
 publishDir: _site
 dataDir: _data
 pagesDir: ''
+cmsName: git
 models:
   post:
     type: page
     label: Post
     folder: _posts
-    match: '*'
+    match:
+      - '*'
     fields:
       - type: string
         name: title
