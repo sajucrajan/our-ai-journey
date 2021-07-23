@@ -15,7 +15,7 @@ One of the most trending research and development use case of AI is in <b>Cyber 
 
 But AI solutions to help in cybersecurity is not trivial since a lot of modernized applications are completely on the cloud and the internet where systems are most exposed for a cyber-attack.  The objective of AI in security is to most efficiently protect, detect and respond at the earliest. Most of the Machine Learnings and AI deployments are based on learnings from the past after processing and analyzing huge amounts of data using big data technologies. The past learnings via machine learning and indicators from traditional security techniques will definitely help in preventing previously encountered threats, but it will not really help for any new attacks or threat that have not be been discovered yet. Also AI system technology aims to help security professionals to reduce the tasks they do and only relevant data for them to analyze and avoid data overload.
 
-AI System Technologies now needs to focus on "Threat Hunting" by deploying AI and big data technologies to identify vulnerabilities in a system and plug in the gaps well before cyber attackers get to deploy their on AI technologies for unethical purposes. 
+<b>AI System Technologies</b> now needs to focus on "Threat Hunting" by deploying AI and big data technologies to identify vulnerabilities in a system and plug in the gaps well before cyber attackers get to deploy their on AI technologies for unethical purposes. 
 
 ![cybersecurity-moneyhiest]({{ site.baseurl }}/assets/images/ai-cybersecurity-n-ethics/cybersecurity-hiest.webp)
 
