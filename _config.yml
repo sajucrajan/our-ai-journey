@@ -22,9 +22,7 @@ spotify_username: /
 google-analytics: UA-163806439-1
 disqus-shortname: sajucrajan
 
-kramdown:
-  # parse markdown inside block-level HTML tag
-  parse_block_html: true
+
 author-name: sajucrajan
 author-image: >-
   /assets/images/profile.png
