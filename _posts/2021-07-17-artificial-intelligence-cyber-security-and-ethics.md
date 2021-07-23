@@ -11,7 +11,7 @@ tags:
 - technology
 ---
 
-One of the most trending research and development use case of AI is in <b>Cyber Security using AI to help identify threats, prevent cyber-attacks and secure application development.  The average cost of a data breach in the United States costs around $8.19 Million in 2019 (Brook, n.d.).  The cyber-attacks and the hackers are finding new ways to breach systems that a human centric cyber security team will not be able to keep up with. Additionally, deploying AI System technology is not limited to cyber security team.  Even the cyber attackers are using AI technologies to identify vulnerabilities in systems that can be exploited to take advantage and cause a data breach.
+One of the most trending research and development use case of AI is in <b>Cyber Security using AI</b> to help identify threats, prevent cyber-attacks and secure application development.  The average cost of a data breach in the United States costs around $8.19 Million in 2019 (Brook, n.d.).  The cyber-attacks and the hackers are finding new ways to breach systems that a human centric cyber security team will not be able to keep up with. Additionally, deploying AI System technology is not limited to cyber security team.  Even the cyber attackers are using AI technologies to identify vulnerabilities in systems that can be exploited to take advantage and cause a data breach.
 
 
 
