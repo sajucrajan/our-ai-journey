@@ -31,6 +31,6 @@ IBM. (n.d.). [Artificial Intelligence.](https://www.ibm.com/security/artificial-
 
 Segal, E. (n.d.). [The Impact of AI on Cybersecurity.](https://www.computer.org/publications/tech-news/trends/the-impact-of-ai-on-cybersecurity) Retrieved from IEEE Computer Society
 
-TED (Director). (2021). [6 big ethical questions about the future of AI | Genevieve Bell [Motion Picture]
+TED (Director). (2021). [6 big ethical questions about the future of AI | Genevieve Bell](https://www.youtube.com/watch?v=UGHzKaAOOcA) [Motion Picture]
 
 To know more and get started with Jekyll you can click [here](https://jekyllrb.com/){:targe="_blank"}
