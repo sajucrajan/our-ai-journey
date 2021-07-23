@@ -18,6 +18,14 @@ But AI solutions to help in cybersecurity is not trivial since a lot of moderniz
 <b>AI System Technologies</b> now needs to focus on <b>"Threat Hunting"</b> by deploying AI and big data technologies to identify vulnerabilities in a system and plug in the gaps well before cyber attackers get to deploy their on AI technologies for unethical purposes. 
 
 ![cybersecurity-moneyhiest](assets/images/profile.png)
+<figure>
+    <a href="https://www.instagram.com/dexter_cockerjack/">
+        <img src="assets/images/posts/2020/dexter.png#wide" alt="Dexter" />
+        
+        <figcaption class="caption-text">Come and see Dexter's Instagram Account</figcaption>
+        
+    </a>
+</figure>
 
 One such Threat Hunting methods that Microsoft developed is <b>"Neural fuzzing" (Blum, 2017)</b> by using machine learning and deep neural networks. This helps the Microsoft development and security team to identify conditions in the system that can cause errors that have high probability of being exploited by the hacking cyber attackers. Buffer overflows, memory access violations and null pointer issues are identified before the system is released to the wider audience that reduces the chances of the system subject to data breaches and security attacks. This will allow AI to participate during development to develop secure applications by default so that applications and systems are less vulnerable to security threats and attacks in the future and reduce the number of data breaches in the software industry. AI in cyber security can help in providing accuracy in detecting threats and vulnerabilities, accelerating the investigation and automating the responses. The category of using technologies to aid in averting security incidents fall under preventive software security & ethical AI hacking.
 
