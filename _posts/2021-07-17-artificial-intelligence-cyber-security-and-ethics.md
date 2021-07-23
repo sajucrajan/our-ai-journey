@@ -7,7 +7,7 @@ description: Jekyll is a static site generator. You give it text written in your
 tags:
 - ai
 - cybersecurity
-- 
+- artificial intelligence
 - informative
 - technology
 ---
