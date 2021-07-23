@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence - Cyber Security & Ethics
 layout: post
-post-image: "/assets/images"
+post-image: "/assets/images/"
 description: Jekyll is a static site generator. You give it text written in your favorite
   markup language and it uses layouts to create a static website.
 tags:
