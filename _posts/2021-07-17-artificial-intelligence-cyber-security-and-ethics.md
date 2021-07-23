@@ -24,8 +24,8 @@ One such Threat Hunting methods that Microsoft developed is "Neural fuzzing" (Bl
 In the coming decade, Ethics in AI (TED, 2021) is going to be very relevant to keep AI free of biases of a developer or a developing company and be cognizant of the privacy that the consumers deserve.  Also data availability is multiply with the IoT (Internet of Things) which will need massive power in data analysis and storage.  So along with AI, system technologies to support data movement, data manipulation, data aggregation and data storage and retrieval is going to be vital to successfully use the available information for Machine Learning and using in making accurate decisions using Artificial Intelligence.
 
 > ### References
-> Blum, W. (2017, November 13). [Neural fuzzing: applying DNN to software security testing](https://www.microsoft.com/en-us/research/blog/neural-fuzzing/) - Retrieved from Microsoft <br>
-> Brook, C. (n.d.). What's the Cost of a Data Breach in 2019? Retrieved from Digital Guardian: https://digitalguardian.com/blog/whats-cost-data-breach-2019 (Links to an external site.)
+> - Blum, W. (2017, November 13). [Neural fuzzing: applying DNN to software security testing](https://www.microsoft.com/en-us/research/blog/neural-fuzzing/) - Retrieved from Microsoft <br>
+> - Brook, C. (n.d.). What's the Cost of a Data Breach in 2019? Retrieved from Digital Guardian: https://digitalguardian.com/blog/whats-cost-data-breach-2019 (Links to an external site.)
 
 IBM. (n.d.). Artificial Intelligence. Retrieved from IBM: https://www.ibm.com/security/artificial-intelligence (Links to an external site.)
 
