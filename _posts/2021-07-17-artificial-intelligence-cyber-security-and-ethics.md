@@ -24,4 +24,3 @@ One such Threat Hunting methods that Microsoft developed is "Neural fuzzing" (Bl
 In the coming decade, Ethics in AI (TED, 2021) is going to be very relevant to keep AI free of biases of a developer or a developing company and be cognizant of the privacy that the consumers deserve.  Also data availability is multiply with the IoT (Internet of Things) which will need massive power in data analysis and storage.  So along with AI, system technologies to support data movement, data manipulation, data aggregation and data storage and retrieval is going to be vital to successfully use the available information for Machine Learning and using in making accurate decisions using Artificial Intelligence.
 
 > ### To know more and get started with Jekyll you can click [here](https://jekyllrb.com/){:targe="_blank"}
-	
