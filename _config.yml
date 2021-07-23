@@ -2,7 +2,7 @@ markdown: kramdown
 url: ''
 # baseurl: ''
 title: Our AI Journey
-description: A customizable Jekyll portfolio theme
+description: Get your dose of AI overdrive here.
 site-image: /WhatATheme/assets/images/meta.jpg
 site-keywords: 'Site, Template, Theme'
 favicon-url: null
@@ -23,13 +23,11 @@ google-analytics: UA-163806439-1
 disqus-shortname: sajucrajan
 author-name: sajucrajan
 author-image: >-
-  https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+  /assets/images/profile.png
 author-about: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget
-  pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus
-  metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit.
-  Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque
-  sit amet sodales.
+  Blah Blah Black Sheep...... Thats how it goes in AI.... 
+  Are we going to break out and not follow the beaten path?  Isnt that what we all want to do? Drive a Ford Bronco or a Jeep Wrangler and get offroading.
+  Oh shoot.  I think I lost my way a little bit here.
 author-url: 'https://github.com/sajucrajan'
 sass:
   sass_dir: _sass
