@@ -17,7 +17,6 @@ But AI solutions to help in cybersecurity is not trivial since a lot of moderniz
 
 <b>AI System Technologies</b> now needs to focus on <b>"Threat Hunting"</b> by deploying AI and big data technologies to identify vulnerabilities in a system and plug in the gaps well before cyber attackers get to deploy their on AI technologies for unethical purposes. 
 
-![cybersecurity-moneyhiest](assets/images/profile.png)
 <figure>
     <a href="https://www.instagram.com/dexter_cockerjack/">
         <img src="/assets/images/profile.png#wide" alt="Dexter" />
