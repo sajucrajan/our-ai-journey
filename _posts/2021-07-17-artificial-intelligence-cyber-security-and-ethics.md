@@ -11,6 +11,10 @@ tags:
 - technology
 ---
 
+One of the most trending research and development use case of AI is in Cyber Security using AI to help identify threats, prevent cyber-attacks and secure application development.  The average cost of a data breach in the United States costs around $8.19 Million in 2019 (Brook, n.d.).  The cyber-attacks and the hackers are finding new ways to breach systems that a human centric cyber security team will not be able to keep up with. Additionally, deploying AI System technology is not limited to cyber security team.  Even the cyber attackers are using AI technologies to identify vulnerabilities in systems that can be exploited to take advantage and cause a data breach.
+
+
+
 Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories and if you don't know what GitHub Pages are you can visit on click [here](https://help.github.com/en/github/working-with-github-pages/about-github-pages){:target="blank"} or [here](https://pages.github.com/){:target="blank"}
 ###### Source : [`Jekyll Docs`](https://jekyllrb.com/docs/)
 
