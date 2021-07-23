@@ -23,4 +23,15 @@ One such Threat Hunting methods that Microsoft developed is "Neural fuzzing" (Bl
 
 In the coming decade, Ethics in AI (TED, 2021) is going to be very relevant to keep AI free of biases of a developer or a developing company and be cognizant of the privacy that the consumers deserve.  Also data availability is multiply with the IoT (Internet of Things) which will need massive power in data analysis and storage.  So along with AI, system technologies to support data movement, data manipulation, data aggregation and data storage and retrieval is going to be vital to successfully use the available information for Machine Learning and using in making accurate decisions using Artificial Intelligence.
 
-> ### To know more and get started with Jekyll you can click [here](https://jekyllrb.com/){:targe="_blank"}
+> ### References
+Blum, W. (2017, November 13). Neural fuzzing: applying DNN to software security testing. Retrieved from Microsoft: https://www.microsoft.com/en-us/research/blog/neural-fuzzing/ (Links to an external site.)
+
+Brook, C. (n.d.). What's the Cost of a Data Breach in 2019? Retrieved from Digital Guardian: https://digitalguardian.com/blog/whats-cost-data-breach-2019 (Links to an external site.)
+
+IBM. (n.d.). Artificial Intelligence. Retrieved from IBM: https://www.ibm.com/security/artificial-intelligence (Links to an external site.)
+
+Segal, E. (n.d.). The Impact of AI on Cybersecurity. Retrieved from IEEE Computer Society: https://www.computer.org/publications/tech-news/trends/the-impact-of-ai-on-cybersecurity (Links to an external site.)
+
+TED (Director). (2021). 6 big ethical questions about the future of AI | Genevieve Bell [Motion Picture]. Retrieved fromhttps://www.youtube.com/watch?v=UGHzKaAOOcA
+
+To know more and get started with Jekyll you can click [here](https://jekyllrb.com/){:targe="_blank"}
