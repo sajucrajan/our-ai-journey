@@ -29,7 +29,7 @@ In the coming decade, Ethics in AI (TED, 2021) is going to be very relevant to k
 
 IBM. (n.d.). [Artificial Intelligence.](https://www.ibm.com/security/artificial-intelligence) Retrieved from IBM
 
-Segal, E. (n.d.). The Impact of AI on Cybersecurity. Retrieved from IEEE Computer Society: https://www.computer.org/publications/tech-news/trends/the-impact-of-ai-on-cybersecurity (Links to an external site.)
+Segal, E. (n.d.). The Impact of AI on Cybersecurity. Retrieved from IEEE Computer Society
 
 TED (Director). (2021). 6 big ethical questions about the future of AI | Genevieve Bell [Motion Picture]. Retrieved fromhttps://www.youtube.com/watch?v=UGHzKaAOOcA
 
