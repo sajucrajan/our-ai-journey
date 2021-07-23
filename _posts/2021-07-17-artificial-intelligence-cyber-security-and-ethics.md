@@ -25,7 +25,7 @@ In the coming decade, Ethics in AI (TED, 2021) is going to be very relevant to k
 
 > ### References
 > - Blum, W. (2017, November 13). [Neural fuzzing: applying DNN to software security testing](https://www.microsoft.com/en-us/research/blog/neural-fuzzing/) - Retrieved from Microsoft <br>
-> - Brook, C. (n.d.). What's the Cost of a Data Breach in 2019? Retrieved from Digital Guardian: https://digitalguardian.com/blog/whats-cost-data-breach-2019 (Links to an external site.)
+> - Brook, C. (n.d.). [What's the Cost of a Data Breach in 2019?] Retrieved from Digital Guardian: https://digitalguardian.com/blog/whats-cost-data-breach-2019 (Links to an external site.)
 
 IBM. (n.d.). Artificial Intelligence. Retrieved from IBM: https://www.ibm.com/security/artificial-intelligence (Links to an external site.)
 
