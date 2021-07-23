@@ -2,7 +2,7 @@
 title: Artificial Intelligence - Cyber Security & Ethics
 layout: post
 post-image: "/assets/images/ai-cybersecurity-n-ethics/cybersecurity-title.webp"
-description: AI can be use to ensure cybersecurity as well as to 
+description: AI can be use to ensure cybersecurity as well as to initiate cyber attacks?  What are the ethics and values that 
 tags:
 - ai
 - cybersecurity
