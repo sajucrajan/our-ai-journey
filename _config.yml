@@ -22,14 +22,6 @@ spotify_username: /
 google-analytics: UA-163806439-1
 disqus-shortname: sajucrajan
 
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
-  # parse markdown inside block-level HTML tag
-  parse_block_html: true
-
 author-name: sajucrajan
 author-image: >-
   /assets/images/profile.png
