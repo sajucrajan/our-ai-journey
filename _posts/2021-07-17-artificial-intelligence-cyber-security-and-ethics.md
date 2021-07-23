@@ -2,7 +2,7 @@
 title: Artificial Intelligence - Cyber Security & Ethics
 layout: post
 post-image: "/assets/images/ai-cybersecurity-n-ethics/cybersecurity-title.webp"
-description: AI can be use for 
+description: AI can be use for cybersecurity as well as 
 tags:
 - ai
 - cybersecurity
