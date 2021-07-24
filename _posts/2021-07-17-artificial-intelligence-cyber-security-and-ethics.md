@@ -3,7 +3,7 @@ title: Artificial Intelligence - Cyber Security & Ethics
 layout: post
 post-image: "../assets/images/ai-cybersecurity-n-ethics/cybersecurity-title.png"
 post-card-image: "assets/images/ai-cybersecurity-n-ethics/cybersecurity-title.png"
-description: Artificial Intelligence can be used to help in cybersecurity as well as to initiate cyber attacks!  What are the best ways AI can help overcome the vulnerabilities during development and testing to ensure a more secure delivery.  The ethics behind using AI
+description: Artificial Intelligence can be used to help in cybersecurity as well as to initiate cyber attacks!  What are the best ways AI can help overcome the vulnerabilities during development and testing to ensure a more secure delivery.
 tags:
 - ai
 - cybersecurity
