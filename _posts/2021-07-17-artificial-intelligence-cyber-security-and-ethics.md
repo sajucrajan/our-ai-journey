@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence - Cyber Security & Ethics
 layout: post
-post-image: "assets/images/ai-cybersecurity-n-ethics/cybersecurity-title.png"
+post-image: "{{site.url}}{{site.baseurl}}/assets/images/ai-cybersecurity-n-ethics/cybersecurity-title.png"
 description: AI can be use to ensure cybersecurity as well as to initiate cyber attacks?  What are the best ways AI can help overcome the vulnerabilities during development and testing.
 tags:
 - ai
