@@ -6,7 +6,7 @@ post-card-image: "assets/images/2021-07-25-ai-n-autonomous-cars/Self-driving-car
 description: Artificial Intelligence in Autonomous cars are two hot topics that need to be discussed together.  How can the travelling community gain confidence and trust in autonomous cars?  Is IoT implementation the key to successful implementation of autonomous cars?
 tags:
 - ai
-- cybersecurity
+- autonomous cars
 - artificial intelligence
 - informative
 - technology
