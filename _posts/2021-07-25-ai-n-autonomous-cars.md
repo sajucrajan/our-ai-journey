@@ -42,6 +42,3 @@ In a capitalistic society, where space travel is about to be sold to private par
 > #### References
 > - Cunneen, M. (2019, May 13). [Autonomous Vehicles and Embedded Artificial Intelligence: The Challenges of Framing Machine Driving Decisions](https://www.tandfonline.com/doi/full/10.1080/08839514.2019.1600301?scroll=top&needAccess=true&)<br>
 > - Brook, C. (n.d.). [What's the Cost of a Data Breach in 2019?](https://www.machinedesign.com/mechanical-motion-systems/article/21838234/how-ai-is-paving-the-way-for-autonomous-cars)
-> - IBM. (n.d.). [Artificial Intelligence.](https://www.ibm.com/security/artificial-intelligence) Retrieved from IBM
-> - Segal, E. (n.d.). [The Impact of AI on Cybersecurity.](https://www.computer.org/publications/tech-news/trends/the-impact-of-ai-on-cybersecurity) Retrieved from IEEE Computer Society
-> - TED (Director). (2021). [6 big ethical questions about the future of AI](https://www.youtube.com/watch?v=UGHzKaAOOcA)
