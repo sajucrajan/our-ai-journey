@@ -41,4 +41,4 @@ In a capitalistic society, where space travel is about to be sold to private par
 
 > #### References
 > - Cunneen, M. (2019, May 13). [Autonomous Vehicles and Embedded Artificial Intelligence: The Challenges of Framing Machine Driving Decisions](https://www.tandfonline.com/doi/full/10.1080/08839514.2019.1600301?scroll=top&needAccess=true&)<br>
-> - Machine Design. ((2019, Oct 17)). [What's the Cost of a Data Breach in 2019?](https://www.machinedesign.com/mechanical-motion-systems/article/21838234/how-ai-is-paving-the-way-for-autonomous-cars)
+> - Machine Design. ((2019, Oct 17)). [How AI Is Paving the Way for Autonomous Cars](https://www.machinedesign.com/mechanical-motion-systems/article/21838234/how-ai-is-paving-the-way-for-autonomous-cars)
