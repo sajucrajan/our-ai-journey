@@ -12,7 +12,7 @@ tags:
 - technology
 ---
 
-# Introduction
+## Introduction
 Artificial Intelligence and Autonomous Cars are two very hot topics that are joined at the hip and in most instances than not, need to be discussed together.  A completely autonomous car would necessarily mean that the car will be able to navigate its way from one point to another without any assistance from a human and along the journey have the capabilities to go through various traffic and weather conditions and also be enabled to handle various complex scenarios that may involve tangible life and death consequences to people inside the car and to people outside.
 
 In the research and testing of autonomous cars, currently the application of AI is bound by the boundaries of information that is available from the different sensors, GPS, radar, cameras all coming from that specific individual car.  So it would mean that the AI embedded in such autonomous cars has to gather enough information to calculate and then assess/understand the environment to make decisions on what that car should do next.
