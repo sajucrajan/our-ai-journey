@@ -3,7 +3,7 @@ title: AI and Autonomous Cars
 layout: post
 post-image: "../assets/images/2021-07-25-ai-n-autonomous-cars/Self-driving-car-data-analysis.jpg"
 post-card-image: "assets/images/2021-07-25-ai-n-autonomous-cars/Self-driving-car-data-analysis.jpg"
-description: 
+description: Blah
 tags:
 - ai
 - autonomous cars
