@@ -3,7 +3,7 @@ title: AI and Autonomous Cars
 layout: post
 post-image: "../assets/images/2021-07-25-ai-n-autonomous-cars/Self-driving-car-data-analysis.jpg"
 post-card-image: "assets/images/2021-07-25-ai-n-autonomous-cars/Self-driving-car-data-analysis.jpg"
-description: Artificial Intelligence in Autonomous cars are two hot topics that need to be discussed together.  Are humans can be used to help in cybersecurity as well as to initiate cyber attacks!  What are the best ways AI can help overcome the vulnerabilities during development and testing to ensure a more secure delivery.
+description: Artificial Intelligence in Autonomous cars are two hot topics that need to be discussed together.  What can be used to help in cybersecurity as well as to initiate cyber attacks!  What are the best ways AI can help overcome the vulnerabilities during development and testing to ensure a more secure delivery.
 tags:
 - ai
 - cybersecurity
