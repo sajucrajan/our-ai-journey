@@ -36,7 +36,7 @@ On an infrastructure level there would need to be lots of changes that could inv
 
 From a research standpoint, the ethical limitations research is very important factor that sometimes is overlooked while focusing only on AI algorithm based safety measures.  More and more research funding from government and policy makers are very important to get autonomous cars a practical reality in the coming decade.
 
-When do you think this will happen?
+## When do you think this will happen?
 In a capitalistic society, where space travel is about to be sold to private parties as a leisure trip by SpaceX and Virgin Galactic, autonomous cars are already part of a race that many technology companies like Tesla, Apple, Uber and Waymo are trying to reach first to the market.  Smaller startups that research about autonomous cars are being acquired by bigger companies to gain an edge in their own products.  But, are any of these research or company technologies mature enough to garner enough confidence from the government and society today?  Probably not!  At present, even companies don’t have so much confidence that they themselves have disclaimers in their fine print to avoid any liabilities in case of failures.  This would suggest that we have at least a decade to go before confidence and maturity of the AI in autonomous cars is attained and the right regulations and rules are laid out to ensure majority public acceptance and affordability.
 
 > #### References
