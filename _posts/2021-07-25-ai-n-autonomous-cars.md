@@ -8,7 +8,7 @@ tags:
 - ai
 - autonomous cars
 - artificial intelligence
-- informative
+- 
 - technology
 ---
 
