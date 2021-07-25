@@ -3,7 +3,7 @@ title: AI and Autonomous Cars
 layout: post
 post-image: "../assets/images/2021-07-25-ai-n-autonomous-cars/Self-driving-car-data-analysis.jpg"
 post-card-image: "assets/images/2021-07-25-ai-n-autonomous-cars/Self-driving-car-data-analysis.jpg"
-description: Artificial Intelligence in Autonomous cars are two hot topics that need to be discussed together.  How can the travelling community gain confidence and trust in autonomous cars?  How IoT ties into the concept 
+description: Artificial Intelligence in Autonomous cars are two hot topics that need to be discussed together.  How can the travelling community gain confidence and trust in autonomous cars?  Is IoT ties into the concept 
 tags:
 - ai
 - cybersecurity
