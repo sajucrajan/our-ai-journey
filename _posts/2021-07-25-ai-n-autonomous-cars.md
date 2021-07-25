@@ -39,6 +39,6 @@ From a research standpoint, the ethical limitations research is very important f
 ## When do you think this will happen?
 In a capitalistic society, where space travel is about to be sold to private parties as a leisure trip by SpaceX and Virgin Galactic, autonomous cars are already part of a race that many technology companies like Tesla, Apple, Uber and Waymo are trying to reach first to the market.  Smaller startups that research about autonomous cars are being acquired by bigger companies to gain an edge in their own products.  But, are any of these research or company technologies mature enough to garner enough confidence from the government and society today?  Probably not!  At present, even companies don’t have so much confidence that they themselves have disclaimers in their fine print to avoid any liabilities in case of failures.  This would suggest that we have at least a decade to go before confidence and maturity of the AI in autonomous cars is attained and the right regulations and rules are laid out to ensure majority public acceptance and affordability.
 
-> #### References
+> # References
 > - Cunneen, M. (2019, May 13). [Autonomous Vehicles and Embedded Artificial Intelligence: The Challenges of Framing Machine Driving Decisions](https://www.tandfonline.com/doi/full/10.1080/08839514.2019.1600301?scroll=top&needAccess=true&)<br>
 > - Machine Design. (2019, Oct 17). [How AI Is Paving the Way for Autonomous Cars](https://www.machinedesign.com/mechanical-motion-systems/article/21838234/how-ai-is-paving-the-way-for-autonomous-cars)
