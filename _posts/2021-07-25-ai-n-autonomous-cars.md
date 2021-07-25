@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence - Cyber Security & Ethics
+title: AI and Autonomous Cars
 layout: post
 post-image: "../assets/images/ai-cybersecurity-n-ethics/cybersecurity-title.png"
 post-card-image: "assets/images/ai-cybersecurity-n-ethics/cybersecurity-title.png"
