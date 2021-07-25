@@ -30,11 +30,11 @@ I believe that the future of AI is going to be enhanced with Internet of Things 
 3. There could be a Predictive and Prescription Maintenance AI that can be performed based on information from the sensors and data from usage of the car to measure the health or condition of the car to avoid failures and perform timely maintenance to affected parts.
 
 # What will it take to have autonomous driving be part of our daily life 
-## On the policy level
+### On the policy level
 From a policy level, the first step would be for governments to acknowledge and accept and enable change to infrastructure and additional researches that would enable and ensure safe and speedy rollout of the autonomous cars.  It would also be beneficial if governments start setting up regulatory panels that defines and regulates the production of autonomous cars and set the bars to very high standards that would ensure public safety and confidence before the autonomous cars begin rolling out to public domains.  There is also a need to start the process of rulemaking for autonomous cars because the current road safety rules and restrictions are only meant for humans and autonomous cars and incidents around the same have to be dealt with differently.
-## On the infrastructure level
+### On the infrastructure level
 On an infrastructure level there would need to be lots of changes that could involve in setting up sensors and devices along the roads that autonomous cars could connect and gather information that could supplement the AI applied by the car itself.  As previously mentioned, availability of 5G high speed data for using IoT to boost the AI applications becomes pivotal.
-## On the Research level
+### On the Research level
 From a research standpoint, the ethical limitations research is very important factor that sometimes is overlooked while focusing only on AI algorithm based safety measures.  More and more research funding from government and policy makers are very important to get autonomous cars a practical reality in the coming decade.
 
 ## When do you think this will happen?
